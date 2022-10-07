@@ -29,3 +29,6 @@ https://github.com/sadvika123/CSA1342-TOC/blob/main/Experiment-5
 ##Experiment-6
 https://github.com/sadvika123/CSA1342-TOC/blob/main/Experiment-6
 <img width="1878" alt="exp6-output" src="https://user-images.githubusercontent.com/113341273/194506135-1f719360-7ee0-4e65-b7a3-4c5b6c371e6f.png">
+##Experiment-7
+https://github.com/sadvika123/CSA1342-TOC/blob/main/Experiment-7
+<img width="1878" alt="exp7-output" src="https://user-images.githubusercontent.com/113341273/194506801-555ef048-f059-47af-8a2b-8b834e57dde0.png">
