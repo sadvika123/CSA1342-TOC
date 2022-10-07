@@ -20,3 +20,6 @@ https://github.com/sadvika123/CSA1342-TOC/blob/main/Experiment-4c
 ##Experiment-4d
 https://github.com/sadvika123/CSA1342-TOC/blob/main/Experiment-4d
 <img width="1878" alt="exp4d-output" src="https://user-images.githubusercontent.com/113341273/194502360-5a63b5b5-edc8-4374-ab4f-c36b0699005b.png">
+##Experiment-4e
+https://github.com/sadvika123/CSA1342-TOC/blob/main/Experiment-4e
+<img width="1878" alt="exp4e-output" src="https://user-images.githubusercontent.com/113341273/194504645-ab816185-6809-439d-a384-4764cf96bf5e.png">
