@@ -17,3 +17,6 @@ https://github.com/sadvika123/CSA1342-TOC/blob/main/Experiment-4b
 ##Experiment-4c
 https://github.com/sadvika123/CSA1342-TOC/blob/main/Experiment-4c
 <img width="1878" alt="exp4c-output" src="https://user-images.githubusercontent.com/113341273/194501041-8b83ce7b-e772-4e24-aefb-3dc0d574df52.png">
+##Experiment-4d
+https://github.com/sadvika123/CSA1342-TOC/blob/main/Experiment-4d
+<img width="1878" alt="exp4d-output" src="https://user-images.githubusercontent.com/113341273/194502360-5a63b5b5-edc8-4374-ab4f-c36b0699005b.png">
